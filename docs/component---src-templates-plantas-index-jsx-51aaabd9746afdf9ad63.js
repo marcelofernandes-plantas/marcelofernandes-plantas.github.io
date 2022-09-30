@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmarcelo_plantas=self.webpackChunkmarcelo_plantas||[]).push([[452],{353:function(e,t,l){l.r(t);var a=l(7294),n=l(4449),c=l(9503),r=l(8841),u=l(1170);t.default=function(e){var t=null==e?void 0:e.pageContext,l=t.titulo,i=t.descricao,m={title:l,description:i,meta:[],image:""};return a.createElement(r.Z,{seo:m},a.createElement(n.Z,null),a.createElement(c.Z,{maxWidth:"lg"},a.createElement(u.H1,null,l),a.createElement(u.n,null,i)))}}}]);
+//# sourceMappingURL=component---src-templates-plantas-index-jsx-51aaabd9746afdf9ad63.js.map
